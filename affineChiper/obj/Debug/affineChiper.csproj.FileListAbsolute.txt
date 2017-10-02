@@ -1,0 +1,6 @@
+C:\Users\aafes\Documents\Visual Studio 2015\Projects\cryptography\affineChiper\bin\Debug\affineChiper.exe.config
+C:\Users\aafes\Documents\Visual Studio 2015\Projects\cryptography\affineChiper\bin\Debug\affineChiper.exe
+C:\Users\aafes\Documents\Visual Studio 2015\Projects\cryptography\affineChiper\bin\Debug\affineChiper.pdb
+C:\Users\aafes\Documents\Visual Studio 2015\Projects\cryptography\affineChiper\obj\Debug\affineChiper.csprojResolveAssemblyReference.cache
+C:\Users\aafes\Documents\Visual Studio 2015\Projects\cryptography\affineChiper\obj\Debug\affineChiper.exe
+C:\Users\aafes\Documents\Visual Studio 2015\Projects\cryptography\affineChiper\obj\Debug\affineChiper.pdb
